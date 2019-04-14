@@ -1,0 +1,2 @@
+# string-validator
+Technologies: Python
