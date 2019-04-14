@@ -5,4 +5,4 @@ The goal of this question is to write a software library that accepts 2 versio
 
 input: two strings.
 
-Use "main_file" to execute program.
+Use "main_file.py" to execute it.
